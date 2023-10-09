@@ -110,3 +110,29 @@ flex-direction: column;
     background-image: url('./bg.png');
     background-size: cover;
 }
+
+.home:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
+.services:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
+.contact:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
+.about:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa
+}
+.faq:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
