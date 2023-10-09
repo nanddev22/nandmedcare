@@ -122,3 +122,29 @@ input {
     margin: 10px 0;
     font-size: 12px;
 }
+
+.home:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
+.services:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
+.contact:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
+.about:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa
+}
+.faq:hover{
+    scale:1.2;
+    transition: scale;
+    color:#0070fa;
+}
